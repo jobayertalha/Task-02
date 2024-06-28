@@ -7,7 +7,7 @@ const Home = () => {
     return (
         <div>
             <h1>
-            The item showed in the list is:
+              The item will show at console by clicking on it:
             </h1>
 
             <List items={items}></List>
